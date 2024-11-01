@@ -1,0 +1,32 @@
+.login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 5px;
+  border: 2px solid grey;
+  padding: 20px;
+}
+
+.field {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: 10px 0;
+}
+
+.trade-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  padding: 20px;
+}
+
+.trade-component {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 5px;
+  border: 2px solid grey;
+}
